@@ -563,7 +563,7 @@ static void convolve(
     }
 }
 
-//---------------------------------------------------------------------------------  ANALIZA SYGNA£U / ALGORYTMY
+//---------------------------------------------------------------------------------  ANALIZA SYGNAÂ£U / ALGORYTMY
 
 /**
  * @note    checks occurency of bradycardia/tachycardia in ecg signal
